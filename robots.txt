@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://usaepheiga.w-master.cn/sitemap.xml
